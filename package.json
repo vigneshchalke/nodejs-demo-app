@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js application for DevOps CI/CD internship task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
